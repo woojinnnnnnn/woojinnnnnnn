@@ -1,4 +1,7 @@
 # woojinnnnnnn
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
-<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-<img src="https://img.shields.io/badge/gmail-#EA4335?style=#EA4335&logo=gmail&logoColor=#EA4335"/></a>
+TypeScript   22 hrs 35 mins  ██████████████████████▓░░   90.08 %
+JavaScript   1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+JSON         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+YAML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
