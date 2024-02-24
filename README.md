@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **ujins8201@gmail.com**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojinnnnnnn&show_icons=true&theme=radical)
+
 - A little more about me...  
 
 ```javascript
