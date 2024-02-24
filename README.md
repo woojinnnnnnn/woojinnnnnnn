@@ -13,7 +13,7 @@ const woojin = {
             js: ["Node", "Express"],
         },
         },
-        devOps: ["AWS", "Docker🐳", "Nginx"],
+        devOps: ["AWS", "Nginx"],
         databases: ["mongo", "MySql"],
         misc: ["Socket.IO"]
     },
