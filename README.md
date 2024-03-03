@@ -3,7 +3,8 @@
 
 - 📫 How to reach me **ujins8201@gmail.com**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojinnnnnnn&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojinnnnnnn&show_icons=true&theme=dark)
+
 
 - A little more about me...  
 
@@ -24,4 +25,4 @@ const woojin = {
 };
 ```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=woojinnnnnnn&show_icons=true&locale=en&layout=compact" alt="woojinnnnnnn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=woojinnnnnnn&show_icons=true&locale=en&layout=compact&theme=radical" alt="woojinnnnnnn" /></p>
