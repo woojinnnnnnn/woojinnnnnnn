@@ -24,5 +24,3 @@ const woojin = {
     currentFocus: "Currently focusing on development studies",
 };
 ```
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=woojinnnnnnn&show_icons=true&locale=en&layout=compact&theme=radical" alt="woojinnnnnnn" /></p>
