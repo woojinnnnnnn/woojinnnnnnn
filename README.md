@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojinnnnnnn&show_icons=true&theme=dark)
 
 
-- A little more about me...  
+- A little more about me !
 
 ```javascript
 const woojin = {
